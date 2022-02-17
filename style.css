@@ -1,0 +1,109 @@
+.container {
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: SteelBlue;
+
+
+}
+.text-wrapper {
+    width: 80%;
+}
+
+.list-wrapper {
+    display:flex;
+    width: 80%;
+    margin-top: 200px;
+    justify-content: center;    
+    margin: 100px auto;
+}
+.item {
+    width: 400px;
+    height: 40px;
+background-color: #FAF0E6;
+border-radius: 20px;
+border: 1px solid #000;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: 'Gideon Roman', cursive;
+}
+
+.item-two {
+    width: 400px;
+    height: 40px;
+background-color: #FAF0E6;
+border-radius: 20px;
+border: 1px solid #000;
+display:flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: 'Gideon Roman', cursive;
+}
+h2 {
+    font-size: 30px;
+    font-family: 'Gideon Roman', cursive;
+    display:flex;
+    justify-content: center;
+    
+}
+.list-one {
+    width: 500px;
+    height: 40vh;
+    background-color: #DCDCDC;
+    border-radius: 20px;
+}
+.list-two {
+    width: 500px;
+    height: 40vh;
+    background-color: #DCDCDC;
+    margin-left: 100px;
+    border: none;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: #fff;
+    
+      
+    
+
+}
+
+.button {
+    background:url(https://clipart-best.com/img/plus/plus-clip-art-120.png);
+    width: 25px;
+    height:25px;
+    background-size: contain;
+    border: none;
+    border-radius: 50%;
+    margin-left: 5px;
+    
+} 
+
+.input-title {
+    width: 500px;
+    height: 20px;
+    margin-left: 10vh;
+    
+}
+.inputblock {
+    display:flex;
+    width: 80%;
+    justify-content: center;    
+    margin: 100px auto;
+    
+}
+
+.list-one, .list-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+   
